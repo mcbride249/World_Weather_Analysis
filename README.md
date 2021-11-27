@@ -76,3 +76,12 @@ Collect and analyze weather data across cities worldwide in order to allow PlanM
 ![Heatmap with Pop Up Markers](https://user-images.githubusercontent.com/92111396/143618355-ef823337-3ac8-481a-ba0c-e3b86fd4a98c.png)
 
 https://github.com/mcbride249/World_Weather_Analysis/blob/main/weather_data/Heatmap%20with%20Pop%20Up%20Markers.png
+
+
+**##Module 6 - Challenge** 
+
+**Deliverable 1 **
+
+Retrieve the following information from the API call:
+
+Latitude and longitude; maximum temperature; percent humidity; percent cloudiness; wind speed; weather description.
