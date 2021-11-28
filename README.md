@@ -26,7 +26,7 @@ Collect and analyze weather data across cities worldwide in order to allow PlanM
 
 
 **##Resources**
--Data Source: 
+-Data Source: https://openweathermap.org; https://developers.google.com/maps; https://jupyter-gmaps.readthedocs.io/en/latest/index.html
 -Software: Python 3.7.10, Visual Studio Code, 1.38.1
 
 
@@ -81,6 +81,11 @@ https://github.com/mcbride249/World_Weather_Analysis/blob/main/weather_data/Heat
 
 
 **##Module 6 - Challenge** 
+
+**##Purpose##**
+
+The purpose of this challenge was to collect and analyze real world weather and mapping data using APIs. The information provided through the APIs would then be measured against users'preferred climate preferences across cities worldwide in order to allow PlanMyTrip to use the data to recommend ideal hotels to their clients' based on their own weather preferences. Beyond recommending a hotel , but similarly using the data proivided by APIs, travel and route data could be generated for these clients in order to provided them with a map and itenaray while travelling.  
+
 
 **Deliverable 1**
 
