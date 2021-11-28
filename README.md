@@ -97,7 +97,7 @@ Latitude and longitude; maximum temperature; percent humidity; percent cloudines
 **Deliverable 1 Results**
 
 ![Image 1 - WeatherPy Database](https://user-images.githubusercontent.com/92111396/143787204-20f3105d-4732-44fb-9b79-9e071ec2419e.PNG)
-
+https://github.com/mcbride249/World_Weather_Analysis/blob/main/Weather_Database/Image%201%20-%20WeatherPy%20Database.PNG
 
 **Deliverable 2**
 
@@ -107,7 +107,7 @@ Retrieve customer weather preferences, then use those preferences to identify po
 **Deliverable 2 Results**
 
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/92111396/143787390-f4b1fb17-a3f6-4ca7-8033-7cd535ee1034.png)
-
+https://github.com/mcbride249/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png
 
 **Deliverable 3**
 
@@ -117,5 +117,5 @@ Create a travel itinerary that shows the route between four cities chosen from t
 **Deliverable 3 Results**
 
 ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/92111396/143789660-8627571c-1d21-4232-a651-818c5e1f6b45.png)
-
+https://github.com/mcbride249/World_Weather_Analysis/blob/main/Vacations_Itinerary/WeatherPy_travel_map_markers.png
 
