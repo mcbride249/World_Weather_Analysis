@@ -78,10 +78,38 @@ Collect and analyze weather data across cities worldwide in order to allow PlanM
 https://github.com/mcbride249/World_Weather_Analysis/blob/main/weather_data/Heatmap%20with%20Pop%20Up%20Markers.png
 
 
+
+
 **##Module 6 - Challenge** 
 
-**Deliverable 1 **
+**Deliverable 1**
 
 Retrieve the following information from the API call:
 
 Latitude and longitude; maximum temperature; percent humidity; percent cloudiness; wind speed; weather description.
+
+
+**Deliverable 1 Results**
+
+![Image 1 - WeatherPy Database](https://user-images.githubusercontent.com/92111396/143787204-20f3105d-4732-44fb-9b79-9e071ec2419e.PNG)
+
+
+**Deliverable 2**
+
+Retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
+
+
+**Deliverable 2 Results**
+
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/92111396/143787390-f4b1fb17-a3f6-4ca7-8033-7cd535ee1034.png)
+
+
+**Deliverable 3**
+
+Create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
+
+
+**Deliverable 3 Results**
+
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/92111396/143787463-4ed370eb-9905-4c3f-8510-0df6c641b63e.png)
+
