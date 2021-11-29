@@ -87,7 +87,7 @@ https://github.com/mcbride249/World_Weather_Analysis/blob/main/weather_data/Heat
 The purpose of this challenge was to collect and analyze real world weather and mapping data using APIs. The information provided through the APIs would then be measured against users'preferred climate preferences across cities worldwide in order to allow PlanMyTrip to use the data to recommend ideal hotels to their clients' based on their own weather preferences. Beyond recommending a hotel , but similarly using the data proivided by APIs, travel and route data could be generated for these clients in order to provided them with a map and itenaray while travelling.  
 
 
-**Deliverable 1**
+**Deliverable 1: Retrieve Weather Data**
 
 Retrieve the following information from the API call:
 
@@ -99,7 +99,7 @@ Latitude and longitude; maximum temperature; percent humidity; percent cloudines
 ![Image 1 - WeatherPy Database](https://user-images.githubusercontent.com/92111396/143787204-20f3105d-4732-44fb-9b79-9e071ec2419e.PNG)
 https://github.com/mcbride249/World_Weather_Analysis/blob/main/Weather_Database/Image%201%20-%20WeatherPy%20Database.PNG
 
-**Deliverable 2**
+**Deliverable 2: Create a Customer Travel Destinations Map**
 
 Retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
 
@@ -109,7 +109,7 @@ Retrieve customer weather preferences, then use those preferences to identify po
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/92111396/143787390-f4b1fb17-a3f6-4ca7-8033-7cd535ee1034.png)
 https://github.com/mcbride249/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png
 
-**Deliverable 3**
+**Deliverable 3: Create a Travel Itinerary Map**
 
 Create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
 
