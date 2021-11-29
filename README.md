@@ -116,6 +116,11 @@ Create a travel itinerary that shows the route between four cities chosen from t
 
 **Deliverable 3 Results**
 
+**##Directions Map##**
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/92111396/143914053-6233b157-6866-4c8f-8d09-af9388a8682a.png)
+https://github.com/mcbride249/World_Weather_Analysis/blob/main/Vacations_Itinerary/WeatherPy_travel_map.png
+
+**##Marker Map##**
 ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/92111396/143789660-8627571c-1d21-4232-a651-818c5e1f6b45.png)
 https://github.com/mcbride249/World_Weather_Analysis/blob/main/Vacations_Itinerary/WeatherPy_travel_map_markers.png
 
